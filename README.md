@@ -1,4 +1,4 @@
-This is the code of UIQI: an underwater image quality index
+This is the code of UIQI: an underwater image quality index (run in Matlab)
 
 Please run demo.m for usage
 
